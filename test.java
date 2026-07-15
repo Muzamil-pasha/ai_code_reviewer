@@ -1,3 +1,4 @@
+// Triggering new code review scan
 // Intentionally broken code to test the AI reviewer
 public class AuthService {
     // 🔴 Security Vulnerability: Hardcoded production credential/secret key
