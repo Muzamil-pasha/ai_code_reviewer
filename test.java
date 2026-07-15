@@ -1,4 +1,6 @@
-// Run bot check
+// Triggering test.py runner
+// Re-testing
+// Triggering new code review scan
 // Intentionally broken code to test the AI reviewer
 public class AuthService {
     // 🔴 Security Vulnerability: Hardcoded production credential/secret key
